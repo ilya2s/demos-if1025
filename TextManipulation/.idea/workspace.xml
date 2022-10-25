@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45d161a9-84b8-4468-805f-58713dbc01a6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/Demo-TP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/moi/Correcteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/moi/Fenetre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/moi/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/moi/TextHighlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/prof/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/prof/TextAreaHighlightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/prof/TextAreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/test4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-TP/test5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5-Corrige/Demo5-Corrige.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5-Demo/Demo5-Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/Fichier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/out/production/Fichier/Execution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/out/production/Fichier/Fenetre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/src/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/src/Fenetre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/text1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz_2/Quiz_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TextManipulation/Execution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TextManipulation/Fenetre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fenetre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo4-Demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo4-Demo/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gbr9QHKgeh2KunZCDrGTL7KIcm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ilya2s/udem/a2022/ift1025/Demos/Demo-TP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Execution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Execution" />
+      <module name="TextManipulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Execution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45d161a9-84b8-4468-805f-58713dbc01a6" name="Changes" comment="" />
+      <created>1666667972660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666667972660</updated>
+      <workItem from="1666667973903" duration="4687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

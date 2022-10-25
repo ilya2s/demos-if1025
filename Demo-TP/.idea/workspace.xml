@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c04d9ac-2d90-485b-b1b1-42f8e048c110" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo-TP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moi/Correcteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moi/Fenetre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moi/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/moi/TextHighlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof/TextAreaHighlightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prof/TextAreaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5-Corrige/Demo5-Corrige.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo5-Demo/Demo5-Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/Fichier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/out/production/Fichier/Execution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/out/production/Fichier/Fenetre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/src/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/src/Fenetre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/text1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fichier/text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz_2/Quiz_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/TextHighlight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/out/production/TextHighlight/Execution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/src/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextHighlight/src/TextHighlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/TextManipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Execution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/src/Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextManipulation/src/Fenetre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo4-Demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo4-Demo/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GYJZGGZ7ttJOnjAMFtBl77lypT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ilya2s/udem/a2022/ift1025/Demos/Demo-TP/src/prof",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/prof" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Correcteur">
+    <configuration name="Correcteur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="moi.Correcteur" />
+      <module name="Demo-TP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextAreaHighlight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prof.TextAreaHighlight" />
+      <module name="Demo-TP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextAreaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prof.TextAreaTest" />
+      <module name="Demo-TP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Correcteur" />
+        <item itemvalue="Application.TextAreaHighlight" />
+        <item itemvalue="Application.TextAreaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c04d9ac-2d90-485b-b1b1-42f8e048c110" name="Changes" comment="" />
+      <created>1666559639594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666559639594</updated>
+      <workItem from="1666559641254" duration="10320000" />
+      <workItem from="1666634071382" duration="9937000" />
+      <workItem from="1666675837992" duration="3375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

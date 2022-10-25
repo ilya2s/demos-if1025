@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23452ba1-ab5a-47e4-b378-a7f0736ada5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo4-Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo4-Demo/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Demo4-Demo/livres/Livre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ecole/Etudiant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ecole/Personne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livres/BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livres/Coloriage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/livres/Livre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/Demo4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/livres/BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/livres/Coloriage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/livres/Livre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/TEST.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TEST/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +70,12 @@
       <updated>1664915474622</updated>
       <workItem from="1664915476031" duration="6558000" />
       <workItem from="1664922104611" duration="102000" />
+      <workItem from="1664943141758" duration="122000" />
+      <workItem from="1664950460870" duration="34000" />
+      <workItem from="1664986205432" duration="298000" />
+      <workItem from="1665087599811" duration="13000" />
+      <workItem from="1665328740716" duration="2000" />
+      <workItem from="1665346889874" duration="3000" />
     </task>
     <servers />
   </component>
