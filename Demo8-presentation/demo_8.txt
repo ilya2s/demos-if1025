@@ -1,0 +1,46 @@
+Auteur : # henri-cedric.mputu.boleilanga@umontreal.ca
+Modifications : # ilyass.el.ouazzani@umontreal.ca
+
+
+Dans cette partie, nous allons manipuler les InputStreams et les OutputStreams.
+
+1.1 Créer une classe Tokenizer : cette classe sert à tokenize un fichier texte,c’est à dire à
+isoler chaque mot contenu dans ce texte. Cette classe contient trois attributs de
+classe : 
+    + String text : le texte complet lu à partir d'un fichier
+    + List<String> tokens : liste des mots du text isolés
+    + List<String> uniqueTokens : liste des mots du text sans répétitions (tous les mots sont uniques)
+
+1.2 Ajouter la méthode readFile(String) : cette méthode prend en entrée le chemin pour
+atteindre le fichier à lire, puis à l’aide d’un objet BufferReader, elle récupère tout le
+texte et l’enregistre dans l’attribut text.
+
+1.3 Ajouter la méthode tokenize() : celle-ci efface les caractères spéciaux et sépare le texte lu en tokens (unités de texte).
+
+1.4 Compléter cette méthode (tokenize) pour qu’elle conserve une liste des tokens disponibles de
+façon unique dans l'attribut uniqueTokens.
+
+1.5 Dans le main, lancer la tokenization du fichier « hugo.txt »
+
+1.6 Récupérer la liste des tokens disponibles du fichier « hugo.txt ».
+
+1.7 Ecrire un fichier « uniqueTokens.txt » dont chaque ligne contient un token de la liste établie
+
+
+2.1 Créez une classe SerializationUtils : cette classe sert à sérialiser et à désérialiser un objet vers/à partir d'un fichier.
+Cette classe contient deux méthodes statiques.
+
+2.2 serialize(Object, String) : cette méthode prend un objet et le path d'un fichier en entrée. 
+Utilisez des Byte Streams pour sérialiser l'objet passé en paramètre en fichier dont le path est passé en paramètre.
+
+2.3 deserialize(String) : cette méthode prend le path d'un fichier en entrée. Elle doit le désérialiser et retourner l'objet. utiliser des Byte Streams.
+
+2.4 Créez une classe Player sérialisable : cette classe possède serialVersionUID, username, score (intialisé à zero) et health (intialisé à 100) comme attributs.
+
+2.5 La classe contient une méthode killMob() : qui augmente le score de 10 et diminue health de 2;
+
+2.6 dans le main, créez un objet player puis appelez killMob() pour modifier ses attributs. Ensuite sérializez l'objet en fichier "player.data"
+
+2.7 désérialisez le fichier "player.data" et affectez l'objet chargé à un nouvel objet otherPlayer
+
+2.8 Personalisez la désérialisation de Player en faisant en sorte que health soit réinitialisé à 100 lors de la désérialisation (utilizez readObject()).

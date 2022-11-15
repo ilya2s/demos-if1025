@@ -1,29 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="beeea818-5650-4431-9ca9-affc15d1f0d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/Demo4-Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4-Demo/src/Livre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/Demo4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/livres/BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/livres/Coloriage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo4/src/livres/Livre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,18 +33,38 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FgZSmKMgfnxSmaDBIfaWHWFhQR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="TEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +74,9 @@
       <option name="presentableId" value="Default" />
       <updated>1664915690004</updated>
       <workItem from="1664915691329" duration="32000" />
+      <workItem from="1666902403821" duration="306000" />
+      <workItem from="1667016198314" duration="3397000" />
+      <workItem from="1667193685273" duration="3000" />
     </task>
     <servers />
   </component>

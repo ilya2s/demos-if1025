@@ -5,35 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7b9fec2-0cfb-430d-a023-0bd16174b07f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/Demo-TP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/Correcteur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/Fenetre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/ReadFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/src/TextAreaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/test3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/test4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-TP/test5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo5-Corrige/Demo5-Corrige.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo5-Demo/Demo5-Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fichier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Fichier/Execution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Fichier/Fenetre.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Quiz_2/Quiz_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo4-Demo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo4-Demo/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo4-Demo/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TEST/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/ilya2s/udem/a2022/ift1025/Demos/Fichier",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ilya2s/udem/a2022/ift1025/Demos/Fichier&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Execution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Execution" />
@@ -97,6 +75,7 @@
       <updated>1666633756580</updated>
       <workItem from="1666633757750" duration="144000" />
       <workItem from="1666634081337" duration="3281000" />
+      <workItem from="1667195807371" duration="11000" />
     </task>
     <servers />
   </component>

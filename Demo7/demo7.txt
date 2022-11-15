@@ -1,0 +1,38 @@
+Auteur : #henri-cedric.mputu.boleilanga@umontreal.ca
+Modifications : #ilyass.el.ouazzani@umontreal.ca
+
+
+1. Exceptions
+Dans cette partie, nous allons manipuler les exceptions : les buts sont de savoir
+comment gérer les blocs Try-Catch, gérer les Exceptions en chaîne, et créer sa propre
+Exception.
+
+Nous utilisons le package exceptions de l’archive : Démo 07 - DATA (A2022).
+
+1.1 Compléter la classe Exception2 en attrapant les exceptions lancées en ajoutant les lignes suivantes dans le main :
+
+1.1.1 Dans le main:
+- Appeler la méthode stringToInt() avec testArgs[0] en paramètre.
+- Appeler la méthode getInverse() avec Integer.parseInt(testArgs[1]) en paramètre.
+- Créer un objet de type Exception2 et appeler sa méthode getLength() avec testArgs[2] en paramètre.
+- Apppeler la méthode effectuerChangements() avec comme paramètre un nouvel objet d'instance Exception1
+
+1.2 Créer la classe DivideByZero qui étend la classe ArithmeticException. Cette classe
+définit l’exception qui consiste à diviser par zéro.
+- Créer son constructeur
+
+***inspirez vous des constructeurs des Exceptions du package java.lang à quoi ressemble leurs constructeurs ?
+Vous pouvez explorer les classes avec ctrl+click et montrer leur hiérarchie pour comprendre leur fonctionnement***
+
+- Créer sa méthode message() qui affiche "Vous êtes bien dans la classe DivideByZero"
+
+1.3 Modifier les méthode lanceUneException() et effetDomino1, 2 et 3 pour dans le but de gérer l'exception DivideByZero
+dans la méthode effetDomino1.
+
+
+1.5 Ouvrir la classe Exception1. Que se passe-t-il si :
+a. dummy () lance une NullPointerException ?
+b. dummy () lance une ArithmeticException ?
+c. dummy () lance une IOException ?
+d. dummy réussit à aller au bout ?
+***Testez vos exceptions dans la méthode contractor***
