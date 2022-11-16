@@ -1,13 +1,12 @@
-package serialization;
+package Serialization;
 
 import java.io.*;
 
 public class Player implements Serializable {
 
     @Serial
-    private static final long serialVersionUID = 123L;
-
-    private final String username;
+    private static final long serialVersionUID = 1L;
+    private String username;
     private transient String password;
     private transient int health;
     private int score;
@@ -26,15 +25,13 @@ public class Player implements Serializable {
 
     private String encrypt(String password) {
         StringWriter sw = new StringWriter();
-
-        password.chars().map(charNumValue -> ++charNumValue).forEach(sw::write);
+        password.chars().map(c -> ++c).forEach(sw::write);
 
         return sw.toString();
     }
 
     private String decrypt(String password) {
         StringWriter sw = new StringWriter();
-
         password.chars().map(c -> --c).forEach(sw::write);
 
         return sw.toString();
@@ -44,9 +41,9 @@ public class Player implements Serializable {
     private void writeObject(ObjectOutputStream out) throws Exception {
         out.defaultWriteObject();
 
-        String encryptedPassword = encrypt(password);
+        String encryptedPass = encrypt(password);
 
-        out.writeObject(encryptedPassword);
+        out.writeObject(encryptedPass);
     }
 
     @Serial
@@ -60,14 +57,12 @@ public class Player implements Serializable {
     @Override
     public String toString() {
         return String.format("""
-                Player : %s
+                Username : %s
                 Password : %s
                 Health : %d
                 Score : %d
                 """, username, password, health, score);
     }
-
-
 
 
 }

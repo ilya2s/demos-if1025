@@ -1,0 +1,63 @@
+- System.in -> Permet de lire des données depuis la console
+    - Source de données : console
+    - Input Stream : System.in
+    - programme
+
+- System.out -> Premet d'écrire des données dans la console
+    - programme
+    - Output Stream : System.out
+    - Destination : console
+
+
+* Différence entre Byte et char Stream
+
+- charStream -> lire et écrire des données en forme de charactères (UTF-16)
+    + Utile pour lire ou écrire des données textuelles (bcp plus facile et rapide que ByteStream pour ce format)
+
+- ByteStream -> lire et éçrire des données en octés (bytes)(byte = 8 bits)
+    + Utile pour lire ou écrire des données de n'importe quel type :
+        + sauvegarder/lire l'état d'un objet (ex : sauvegarder/lire la progression d'un jeu)
+        + Lire/écrire des fichiers multimédias (ex : vidéos, photos, etc)
+
+
+* Pourquoi Buffered streams ? (BufferedReader && BufferedWriter) :
+
+- Lire ou écrire à sur un textArea par exemple prends bcp de temps et de ressources (Interrupt , etc)
+    + On veut donc minimiser les interractions avec ces élements
+        > On va lire les données dans un array de chars ou de bytes. Ce array est le Buffer
+            * au lieu de lire les 20 lignes du fichier texte une à une on va faire une unique lecture à dans un Buffer
+
+            * Premiere lecture le Buffer vas lire tout ce qui se trouve en mémoire après le text jusqu'à ce qu'il soit rempli
+              Il va ensuite verifier si parmi ce qu'il a lu est ce qu'il y a des données en trop pour les eliminer
+              Si il n a pas lu assez, il repète
+            
+            * Cela permet d'interragir le moins possible avec la Source
+
+
+* Serialization & Deserialization
+
+- Serialization : Convertir un objet (et son état) en Byte Stream pour le sauvegarder dans un stokage permanent
+- Deserialization : Convertir un Byte stream (Serialized object) en objet qui interagit avec le programme
+
+> On peut sérialiser des objets en Character Stream (JSON, XML), mais en java en préfère sérialiser en bytes.
+> La sérialisation permet d'envoyer des objets sérialisés à travers un réseau et les utiliser dans un autre programme.
+
+
+* Serialization
+    - Une classe sérialisable doit implementer l'interface "Serializable"
+    - Si on ne veut pas sérialiser un attribut en particulier -> mot clé "transient"
+    - Fortement recommendé d'ajouter un attribut "private static final long serialVersionUID" avec une valeur au hasard.
+        > Permet de verifier que le sender et le receiver on la bonne classe. (serialVersionUID n'a pas besoin d'etre un nombre unique pour chaque classe).
+        > Doit etre changée à chaque fois qu'on modifie les attributs de la classe.
+
+
+
+ANNEXE :
+- regex :
+    + À-ú (accents)
+    + A-z (alphabet)
+    + 0-9 (nombres)
+    + ' (juste apostrophes)
+    + [....] (groupe)
+    + ^ (sauf)
+    + \\s+ (tout ce qui est un espace -> space, tab, etc.)
