@@ -1,0 +1,61 @@
+Auteur : #ilyass.el.ouazzani@umontreal.ca
+
+Dans cette partie nous allons aborder les réseaux et manipuler des linkedLists
+
+1.1 Créez une méthode main dans une classe Client. Dans le main, nous allons créer une connexion vers un serveur :
+    + Adresse IP : "127.0.0.1" -> localHost (peut être un serveur externe)
+    + Port : 1337
+    + La méthode main lit les commandes que l'utilisateur entre dans le console et les envoie au serveur. dans le format "cmd arg1 arg2 arg3 ..."
+
+1.2 Créez une interface EventHandler qui va contenir une méthode :
+    + handle(String cmd, String arg) : méthode qui prend une commande et ses arguments en paramètre et qui effectuera
+    des action selon la commande.
+
+1.3 Créez une classe Server : Un serveur qui attend des commandes de la part d'un client et qui les execute grâce à la
+méthode handle de EventHandler.
+
+1.4 La classe Server contient une méthode main et une classe interne MyServer. cette classe possède deux attributs :
+    + serverSocket : un socket de serveur qui va écouter et reçevoir les données sur un port spécifié. (Initialiser le backlog à 1.)
+    + handlers : une liste d'EventHandler qui vont gèrer les différentes commandes que le serveur reçoit.
+
+1.5 La classe interne MyServer contient trois méthode :
+    + addEventHandler(EventHandler handler) : ajoute le handler passé en paramètre à la liste de handlers du serveur.
+    + callHandler(String cmd, String arg) : appelle  la méthode handle de tous les handlers du serveur avec les paramètres qu'elle a reçue.
+    + listen() : Accepte le socket client et écoute les commandes envoyés sur le port. Dès qu'une commande est reçue (en format textuel) elle est traitée :
+        - On sépare la ligne reçue en deux parties : la commande elle même (le premier mot de la ligne) et ses arguments (le reste de la ligne).
+        - Cette commande est passée en paramètre à la méthode callHandler qui va trouver le handler approprié pour l'executer.
+    
+1.6 Dans le main de la classe Server nous allons démarrer le serveur pour écouter le port 1337 et on va lui ajouter les handlers de quelques commandes :
+    + La commande "echo" : imprime les arguments de la commande dans la console.
+    + La commande "reverse" : imprime les arguments de la commande à l'envers dans la console.
+    + La commande "date" : qui imprime la date d'aujourd'hui dans la console.
+    + La commande "count" : qui compte le nombre d'arguments de la commande.
+
+
+Nous allons dans cette deuxième partie créer une liste chainée d'entiers.
+
+
+2.1 Créez la classe Node : Une chaine (element) d'une liste chainée. La classe Node possède deux attributs :
+    + int val : la valeur de  l'entier qui est stocké dans ce node (dans cette case de la liste). 
+    + Node next : le node suivant (le prochain élément de la liste).
+
+La classe Node possède trois constructeurs :
+    + constructeur par défaut
+    + constructeur qui prend val en paramètre
+    + constructeur qui prend val et next en paramètre
+
+2.2 Créez la classe ChainedList : Une liste chainée d'entiers. Elle possède un attribut :
+    + Node head : la tête de la liste chaine (l'élément du début)
+
+La classe ChainedList possède deux constructeurs :
+    + constructeur par défaut
+    + constructeur qui prend la tête de la chaine en paramètre
+
+2.3 Implementez la méthode add(int val) qui permet d'inserer un entier à la fin de la chaine
+
+2.4 Ajoutez maintenant un autre attribut à la classe :
+    + Node tail : le dernier élément de la liste
+
+2.5 Modifiez le constructeur et add(int val) pour que l'insertion à la fin de la liste soit plus rapide (meme instantanée).
+
+Si le temps le permet nous allons résoudre ce LeetCode : https://leetcode.com/problems/add-two-numbers/
