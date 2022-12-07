@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7b9fec2-0cfb-430d-a023-0bd16174b07f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TEST/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TEST/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextHighlight/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +71,7 @@
       <workItem from="1666633757750" duration="144000" />
       <workItem from="1666634081337" duration="3281000" />
       <workItem from="1667195807371" duration="11000" />
+      <workItem from="1669057713803" duration="10000" />
     </task>
     <servers />
   </component>

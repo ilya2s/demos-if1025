@@ -1,0 +1,26 @@
+Auteur : #ilyass.el.ouazzani@umontreal.ca
+
+1.1 Créez la classe Node : cette classe représente un noeud d'un arbre binaire. La classe Noeud possède trois attributs :
+    + int value : La valeur que va contenir le noeud
+    + Node left : Le noeud enfant gauche
+    + Node right : Le noeud enfant droit
+La classe Node possède un constructeur qui prend la valeur du noeud en paramètre.
+
+1.2 Créez la classe BinaryTree : Cette clase représente un arbre binaire. La classe BinaryTree possède un seul attribut :
+    + Node root : La racine de l'arbre binaire.
+
+1.3 Implementez une méthode add(int value) qui ajoute un nouveau noeud dans l'arbre binaire selon ces règles :
+    + Si la valeur du nouveau noeud à inserer est plus petite que le noeud actuel on se déplace vers la gauche
+    + Si la valeur du nouveau noeud à inserer est plus grande que le noeud actuel on se déplace vers la droite
+    + Quand le noeud actuel est "null" on a atteint une "feuille" (la fin de l'arbre) et on peut inserer le nouveau noeud
+    à cette position.
+Indice : utilisez une méthode privée insert(Node current, int value) qui va parcourir les noeuds de manière récursive.
+
+1.4 Implementez une méthode contains(int value) qui verifie si l'arbre binaire contient la valeur spécifiée :
+Indice : utilisez une méthode privée search(Node current, int value) qui va parcourir les noeuds de manière récursive
+
+1.5 Implementez une méthode traverseInOrder(Node node) qui va afficher la branche gauche puis la racine et finalement la branche droite.
+
+1.6 Implementez une méthode traversePreOrder(Node node) qui va afficher la racine, puis la branche gauche et finalement la branche droite.
+
+1.7 Implementez une méthode traversePostOrder(Node node) qui va afficher la branche gauche, puis la branche droite et finalement la racine.

@@ -12,9 +12,9 @@ public interface Calculator {
         if (n1.next == null) n1.next = new Node();
         if (n2.next == null) n2.next = new Node();
 
-        n1 = n1.next;
+        n1 = new Node(n1.next.val, n1.next.next);
         n1.val += reste;
-        n2 = n2.next;
+        n2 = new Node(n2.next.val, n2.next.next);
 
         return new Node(val, addTwoNumbers(n1, n2));
     }

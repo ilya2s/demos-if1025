@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac71e962-fe70-4af6-be19-ded1b984e425" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TextManipulation/out/production/TextManipulation/Fenetre.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +31,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/ilya2s/udem/a2022/ift1025/Demos/TextHighlight",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Execution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Execution" />
@@ -71,6 +68,7 @@
       <workItem from="1666677785898" duration="2808000" />
       <workItem from="1666730793060" duration="1078000" />
       <workItem from="1666902382864" duration="11000" />
+      <workItem from="1669057652105" duration="49000" />
     </task>
     <servers />
   </component>
